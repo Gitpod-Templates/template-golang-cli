@@ -1,0 +1,7 @@
+{
+  "mounts": [
+    "source=/dev/mapper,target=/dev/mapper,type=bind"
+  ]
+}
+
+
